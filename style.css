@@ -72,7 +72,7 @@ a {
 }
 
 .FC {
-    background-image: url("FC2.JPG");
+    background-image: url("./FC2.JPG");
     background-attachment: fixed;
     background-position: left center;
     background-size: 100%;
@@ -83,7 +83,7 @@ a {
 }
 
 .G {
-    background-image: url("G1.JPG");
+    background-image: url("./G1.jpg");
     background-attachment: fixed;
     background-position: left center;
     padding: 6%;
@@ -94,7 +94,7 @@ a {
 }
 
 .M {
-    background-image: url("M1.JPG");
+    background-image: url("./M1.jpg");
     background-attachment: fixed;
     background-position: center;
     padding: 6%;
